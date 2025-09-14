@@ -1,2 +1,1 @@
-/api
-  └── gamepasses.js
+/api/gamepasses.js
